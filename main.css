@@ -87,6 +87,16 @@ table {
   width: 66.66%;
 }
 
+.container,
+.grid {
+  margin: 0 auto;
+  width: 960px;
+}
+.container {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
 /*
   ========================================
   Clearfix
